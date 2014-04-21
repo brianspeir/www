@@ -4,32 +4,47 @@
         }
 
         html {
-            color: #888;
-            font-family: sans-serif;
+            color: #F7F7F7;
+            font: 21px/1.52380952380952 Georgia, serif;  /*  var(font) */
             text-align: center;
         }
 
-        body {
-            left: 50%;
-            margin: -43px 0 0 -150px;
-            position: absolute;
-            top: 50%;
-            width: 300px;
-        }
-
         h1 {
-            color: #555;
-            font-size: 2em;
-            font-weight: 400;
+            color: #555555;  /* var(color) */
+            color: rgb(85, 85, 85);
+            font-size: 2.11904761904762rem;
+            line-height: 1.07865168539326;
+            margin-bottom: 1.19047619047619rem;
+            padding-top: 7px;  /* As an offset. */
         }
 
-        p {
-            line-height: 1.2;
+        /* Overlay
+        ------------------------------------------------------------- */
+
+        .overlay {
+            background-color: #FF9500;
+            background-color: rgba(254,175,5, 1.0);
+            color: #F7F7F7;
+            display: table;
+            height: auto;
+            left: 0;
+            margin: 0 auto -55px;
+            min-height: 100%;
+            position: fixed;
+            top: 0;
+            width: 100%;
+        }
+
+        .overlay-content {
+            display: table-cell;
+            padding: 0 17px 55px;
+            text-align: center;
+            vertical-align: middle;
         }
 
         @media only screen and (max-width: 270px) {
 
-            body {
+            .overlay {
                 margin: 10px auto;
                 position: static;
                 width: 95%;
@@ -39,4 +54,4 @@
                 font-size: 1.5em;
             }
 
-        }</style></head><body><h1>Page Not Found</h1><p>Sorry, but the page you were trying to view does not exist.</p></body></html>
+        }</style></head><body><div class="overlay"><div class="overlay-content"><h1>404 Not Found</h1><p>Hello. The server has not found anything matching your request. No indication is given of whether the condition is temporary or permanent. This status code is commonly used when the server does not wish to reveal exactly why the request has been refused, or when no other response is applicable.</p></div></div></body></html>
