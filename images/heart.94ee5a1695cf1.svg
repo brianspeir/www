@@ -1,0 +1,14 @@
+<!-- Copyright © 2014 Brian Speir. All rights reserved.  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="440px" height="380px" viewBox="-35.5 446.5 440 380" enable-background="new -35.5 446.5 440 380" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="184.5005" y1="825.8281" x2="184.5005" y2="446.5">
+		<stop  offset="0" style="stop-color:#F6C9E3"/>
+		<stop  offset="1" style="stop-color:#FF3FB4"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M404.5,567.199c0,42.324-21.95,84.075-75.854,133.646C252.204,771.15,192.102,825.828,184.5,825.828
+		c-7.564,0-67.658-54.678-144.144-124.981C-13.514,651.274-35.5,609.523-35.5,567.199c0-86.21,64.842-120.699,116.539-120.699
+		c40.879,0,86.227,30.186,103.461,68.965c17.267-38.771,62.584-68.965,103.447-68.965C339.695,446.5,404.5,480.989,404.5,567.199z"
+		/>
+</g>
+</svg>

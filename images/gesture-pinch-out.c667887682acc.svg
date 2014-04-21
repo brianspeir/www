@@ -1,0 +1,7 @@
+<!-- Copyright © 2014 Brian Speir. All rights reserved.  -->
+<svg version="1.1" id="gesture-pinch-out" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="320px" height="320px" viewBox="-46 111.5 320 320" enable-background="new -46 111.5 320 320"
+	 xml:space="preserve">
+<circle id="touch-finger" opacity="0.5" fill="#555555" enable-background="new    " cx="121.5" cy="258.5" r="21.997"/>
+<circle id="touch-thumb" opacity="0.5" fill="#555555" enable-background="new    " cx="106.5" cy="284.5" r="21.997"/>
+</svg>
