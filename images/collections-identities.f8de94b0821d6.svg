@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Copyright (C) 2014 Brian Speir. All rights reserved. -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Escutcheon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="120px" height="120px" viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
 <path id="Right" fill="#AAAAAA" d="M109.54,0v72.62c-0.899,20.45-14.181,37.688-32.54,44.39V0H109.54z"/>
 <path id="Middle" fill="#BBBBBB" d="M77,0v117.01c-5.3,1.93-11.029,2.99-17,2.99c-5.97,0-11.7-1.061-17-2.99V0H77z"/>
 <path id="Left" fill="#888888" d="M43,0v117.01c-18.36-6.699-31.64-23.939-32.54-44.39V0H43z"/>
-<polygon id="Star" fill="#555555" points="77,23.67 82.253,34.421 94,36.145 85.499,44.514 87.505,56.33 77,50.751 66.495,56.33 
+<polygon id="Star" fill="#FFFFFF" points="77,23.67 82.253,34.421 94,36.145 85.499,44.514 87.505,56.33 77,50.751 66.495,56.33
 	68.501,44.514 60,36.145 71.747,34.421 "/>
 <path id="Outline" fill="#777777" d="M107.991,2.009v70.568C106.84,98.047,85.77,117.991,60,117.991
 	c-25.769,0-46.841-19.944-47.991-45.414V2.009H107.991 M110,0H10v72.622C11.167,98.982,33.106,120,60,120
