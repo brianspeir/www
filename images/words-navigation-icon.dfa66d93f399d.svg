@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 Brian Speir. All rights reserved. -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Words" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="120px" height="120px" viewBox="-13.5 120.5 120 120" enable-background="new -13.5 120.5 120 120" xml:space="preserve">
+<path id="Background" fill="#F7F7F7" d="M92.5,240.5h-92v-120h53c6.512,0.812,5.939,1,22,17s16.244,15.48,17,22V240.5z"/>
+<path id="Paper" fill="#777777" d="M76.5,136.5c-4.407-4.404-13.727-13.979-19.75-16H0.5v120h92v-84.25
+	C90.48,150.225,80.907,140.904,76.5,136.5z M91.5,239.5h-90v-118h55c10.939,4.85,10.38,14.92,10,25c10.08-0.38,20.15-0.939,25,10
+	V239.5z"/>
+<g id="Blocks">
+	<rect x="13.5" y="136.5" opacity="0.5" fill="#AAAAAA" enable-background="new    " width="33" height="8"/>
+	<rect x="13.5" y="168.5" opacity="0.5" fill="#AAAAAA" enable-background="new    " width="66" height="8"/>
+	<rect x="13.5" y="152.5" opacity="0.5" fill="#AAAAAA" enable-background="new    " width="66" height="8"/>
+	<rect x="13.5" y="184.5" opacity="0.5" fill="#AAAAAA" enable-background="new    " width="66" height="8"/>
+	<rect x="13.5" y="200.5" opacity="0.5" fill="#AAAAAA" enable-background="new    " width="66" height="8"/>
+	<rect x="13.5" y="216.5" opacity="0.5" fill="#AAAAAA" enable-background="new    " width="66" height="8"/>
+</g>
+</svg>

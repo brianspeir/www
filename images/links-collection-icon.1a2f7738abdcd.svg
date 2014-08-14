@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 Brian Speir. All rights reserved. -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Link" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="179px" height="120px" viewBox="0 0 179 120" enable-background="new 0 0 179 120" xml:space="preserve">
+<polygon id="Arrow" fill="#FFC300" points="66.357,82.895 62.652,79.154 79.354,62.632 0.026,62.632 0.026,57.37 79.354,57.37
+	62.652,40.848 66.357,37.107 89.5,60 "/>
+<polygon id="Box" fill="#FFC300" points="139.501,10 139.501,110 39.499,110 39.499,73.158 44.763,73.158 44.763,104.737
+	134.238,104.737 134.238,15.265 44.762,15.265 44.762,46.842 39.499,46.842 39.499,10 "/>
+</svg>

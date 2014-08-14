@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 Brian Speir. All rights reserved. -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Toolbox" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="120px" height="120px" viewBox="16.5 120.5 120 120" enable-background="new 16.5 120.5 120 120" xml:space="preserve">
+<path id="Box" fill="#555555" d="M118.501,167.079h-18.316v-8.257c0-7.201-6.096-13.059-13.587-13.059H66.402
+	c-7.491,0-13.586,5.857-13.586,13.059v8.257H34.5c-9.94,0-17.999,8.061-17.999,18V240.5H136.5v-55.421
+	C136.5,175.14,128.44,167.079,118.501,167.079z M61.477,158.822c0-2.425,2.21-4.397,4.926-4.397h20.195
+	c2.716,0,4.925,1.975,4.925,4.397v8.257H61.477V158.822z"/>
+<path id="Hinge" fill="#DDDDDD" d="M85.579,195.105v-11.447H67.421v11.447H16.5v5.526h50.921v11.447h18.157v-11.447h50.921v-5.526
+	H85.579z M80.053,206.553h-7.105v-17.368h7.105V206.553z"/>
+</svg>
