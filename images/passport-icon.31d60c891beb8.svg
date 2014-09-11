@@ -5,7 +5,7 @@
 	 width="152px" height="152px" viewBox="0 0 152 152" enable-background="new 0 0 152 152" xml:space="preserve">
 <path fill="#FFFFFF" d="M114,0H16.286v152H114c11.943,0,21.714-9.771,21.714-21.714V21.714C135.714,9.771,125.943,0,114,0z"/>
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="75.9995" y1="0" x2="75.9995" y2="152.0005">
-	<stop  offset="0" style="stop-color:#CC73FF"/>
+	<stop  offset="0" style="stop-color:#BA40FF"/>
 	<stop  offset="1" style="stop-color:#A200FF"/>
 </linearGradient>
 <path fill="url(#SVGID_1_)" d="M114,0H16.286v152H114c11.943,0,21.714-9.771,21.714-21.714V21.714C135.714,9.771,125.943,0,114,0z
