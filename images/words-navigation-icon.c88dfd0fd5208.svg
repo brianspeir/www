@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright © 2014 Brian Speir. All rights reserved.  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Words" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="44px" height="44px" viewBox="0 0 44 44" enable-background="new 0 0 44 44" xml:space="preserve">
+<g>
+	<rect x="12" y="10" fill="#4B4B4B" width="12" height="2"/>
+	<rect x="12" y="16" fill="#4B4B4B" width="20" height="2"/>
+	<rect x="12" y="22" fill="#4B4B4B" width="20" height="2"/>
+	<rect x="12" y="28" fill="#4B4B4B" width="20" height="2"/>
+	<rect x="12" y="34" fill="#4B4B4B" width="20" height="2"/>
+</g>
+<path id="Paper_1_" fill="#4B4B4B" d="M32.437,7.6C30.902,6.058,27.094,2.707,25,2H6v42h32V15
+	C37.299,12.891,33.968,9.142,32.437,7.6z M36,42H8V4h17c3.804,1.698,3.132,4.472,3,8c3.506-0.133,6.312-0.828,8,3V42z"/>
+</svg>

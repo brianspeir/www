@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Copyright © 2014 Brian Speir. All rights reserved.  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="222px" height="203px" viewBox="0 0 222 203" enable-background="new 0 0 222 203" xml:space="preserve">
@@ -22,11 +22,11 @@
 			C106.318,80.326,107.577,80.1,108.871,80.1z"/>
 		<path fill="#111111" d="M94.804,87.805c-3.429,0-6.595,1.133-9.14,3.047h18.278C101.398,88.938,98.232,87.805,94.804,87.805z"/>
 	</g>
-	<polygon fill="#111111" points="79.107,66.515 83.743,65.435 81.78,69.772 84.237,73.847 79.507,73.319 76.389,76.918 
+	<polygon fill="#111111" points="79.107,66.515 83.743,65.435 81.78,69.772 84.237,73.847 79.507,73.319 76.389,76.918
 		75.43,72.255 71.047,70.402 75.182,68.049 75.59,63.307 	"/>
-	<polygon fill="#111111" points="91.268,47.209 95.717,45.521 94.35,50.081 97.331,53.792 92.572,53.9 89.964,57.881 88.39,53.39 
+	<polygon fill="#111111" points="91.268,47.209 95.717,45.521 94.35,50.081 97.331,53.792 92.572,53.9 89.964,57.881 88.39,53.39
 		83.798,52.14 87.583,49.255 87.354,44.5 	"/>
-	<polygon fill="#111111" points="106.039,54.04 107.296,49.448 110.176,53.238 114.93,53.014 112.216,56.924 113.898,61.377 
+	<polygon fill="#111111" points="106.039,54.04 107.296,49.448 110.176,53.238 114.93,53.014 112.216,56.924 113.898,61.377
 		109.34,60.003 105.625,62.98 105.523,58.22 101.545,55.606 	"/>
 </g>
 <g opacity="0.2">
@@ -58,9 +58,9 @@
 	v16.25H214.24z"/>
 <path opacity="0.2" fill="#00FFFF" enable-background="new    " d="M148.74,177v22h14.75v-1h-13.75v-20h42.5v20h-13.75v1h14.75v-22
 	H148.74z"/>
-<polygon opacity="0.2" fill="#FF00FF" enable-background="new    " points="23.5,43.5 23.5,44.5 4.46,44.5 4.46,84 3.46,84 
+<polygon opacity="0.2" fill="#FF00FF" enable-background="new    " points="23.5,43.5 23.5,44.5 4.46,44.5 4.46,84 3.46,84
 	3.46,43.5 "/>
-<polygon opacity="0.2" fill="#FF00FF" enable-background="new    " points="4.46,133.5 23.5,133.5 23.5,134.5 3.46,134.5 3.46,94 
+<polygon opacity="0.2" fill="#FF00FF" enable-background="new    " points="4.46,133.5 23.5,133.5 23.5,134.5 3.46,134.5 3.46,94
 	4.46,94 "/>
 <g opacity="0.2">
 	<path fill="#00FFFF" d="M207.877,158.6c0,0.174-0.062,0.326-0.189,0.461c-0.127,0.133-0.287,0.199-0.479,0.199
