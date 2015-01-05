@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 Brian Speir. All rights reserved. -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="96px" height="64px" viewBox="0 0 96 64" enable-background="new 0 0 96 64" xml:space="preserve">
+<g>
+	<path fill="#FF3366" d="M75.42,23.216c0,5.132-2.664,10.193-9.199,16.206c-9.271,8.525-16.561,15.156-17.48,15.156
+		s-8.206-6.631-17.48-15.156c-6.534-6.013-9.199-11.074-9.199-16.206c0-10.456,7.861-14.638,14.133-14.638
+		c4.957,0,10.456,3.659,12.547,8.362c2.094-4.703,7.59-8.362,12.543-8.362C67.559,8.578,75.42,12.76,75.42,23.216z"/>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Toolbox" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="152px" height="120px" viewBox="0 0 152 120" enable-background="new 0 0 152 120" xml:space="preserve">
+<path id="Box" fill="#FF3B30" d="M124.768,29.75H103.5v-9.588C103.5,11.802,96.423,5,87.725,5H64.276
+	C55.577,5,48.5,11.802,48.5,20.162v9.588H27.233c-11.541,0-20.899,9.359-20.899,20.9V115h139.333V50.65
+	C145.667,39.109,136.309,29.75,124.768,29.75z M58.556,20.162c0-2.814,2.566-5.105,5.72-5.105h23.449
+	c3.153,0,5.719,2.292,5.719,5.105v9.588H58.556V20.162z"/>
+<path id="Hinge" fill="#FFFFFF" d="M86.542,62.292V49H65.458v13.292H6.333v6.416h59.125V82h21.083V68.708h59.125v-6.416H86.542z
+	 M80.125,75.583h-8.25V55.417h8.25V75.583z"/>
+</svg>

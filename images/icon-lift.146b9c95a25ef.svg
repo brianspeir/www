@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 Brian Speir. All rights reserved. -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Scroll" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="72px" height="22px" viewBox="0 0 72 22" enable-background="new 0 0 72 22" xml:space="preserve">
+<path id="Bar" opacity="0.54" d="M72,14.8779297c0,0.5976562-0.0820312,1.2138672-0.2480469,1.8212891
+	c-1.0166016,3.7617188-4.9853516,6.0058594-8.8105469,5.0048828L36,14.6054688L9.059082,21.7041016
+	c-3.8251953,1.0009766-7.7944336-1.2431641-8.8125-5.0048828C0.081543,16.0917969,0,15.4755859,0,14.8779297
+	c0-3.125,2.1279297-6.0058594,5.3369141-6.8554688L36-0.0576172l30.6630859,8.0800781
+	C69.8730469,8.8720703,72,11.7529297,72,14.8779297z"/>
+</svg>

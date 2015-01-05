@@ -1,0 +1,5 @@
+<!-- Copyright © 2014 Brian Speir. All rights reserved.  -->
+<svg version="1.1" id="gesture-tap" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="320px" height="320px" viewBox="-57 95 320 320" enable-background="new -57 95 320 320" xml:space="preserve">
+<circle id="touch" opacity="0.5" fill="#555555" enable-background="new    " cx="103" cy="255" r="18.5"/>
+</svg>

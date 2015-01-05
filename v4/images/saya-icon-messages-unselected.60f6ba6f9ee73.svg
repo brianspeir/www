@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 Brian Speir. All rights reserved. -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="96px" height="64px" viewBox="0 0 96 64" enable-background="new 0 0 96 64" xml:space="preserve">
+<g id="Messages__x28_inactive_x29_">
+	<path fill="#929292" d="M61.25,10.5c11.578,0,21,9.421,21,21c0,11.578-9.422,21-21,21h-26c-11.579,0-21-9.422-21-21
+		c0-11.579,9.421-21,21-21H61.25 M61.25,8.5h-26c-12.702,0-23,10.298-23,23c0,12.703,10.298,23,23,23h26c12.703,0,23-10.297,23-23
+		C84.25,18.798,73.953,8.5,61.25,8.5L61.25,8.5z"/>
+	<circle fill="#929292" cx="30.25" cy="31.5" r="6"/>
+	<circle fill="#929292" cx="48.25" cy="31.5" r="6"/>
+	<circle fill="#929292" cx="66.25" cy="31.5" r="6"/>
+</g>
+</svg>

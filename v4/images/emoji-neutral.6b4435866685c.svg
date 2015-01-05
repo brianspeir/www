@@ -1,0 +1,25 @@
+<!-- Copyright © 2014 Brian Speir. All rights reserved.  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="152px" height="152px" viewBox="0 0 152 152" enable-background="new 0 0 152 152" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="76.0005" y1="152" x2="76.0005" y2="9.765625e-04">
+	<stop  offset="0" style="stop-color:#FFCC00"/>
+	<stop  offset="1" style="stop-color:#FFE64C"/>
+</linearGradient>
+<circle fill="url(#SVGID_1_)" cx="76" cy="76" r="76"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="53.1147" y1="73.9507" x2="53.1147" y2="49.1865">
+	<stop  offset="0" style="stop-color:#4A4A4A"/>
+	<stop  offset="1" style="stop-color:#2B2B2B"/>
+</linearGradient>
+<ellipse fill="url(#SVGID_2_)" cx="53.115" cy="61.569" rx="8.369" ry="12.382"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="98.8848" y1="73.9507" x2="98.8848" y2="49.1865">
+	<stop  offset="0" style="stop-color:#4A4A4A"/>
+	<stop  offset="1" style="stop-color:#2B2B2B"/>
+</linearGradient>
+<ellipse fill="url(#SVGID_3_)" cx="98.885" cy="61.569" rx="8.369" ry="12.382"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="37.7441" y1="99.1416" x2="114.2568" y2="99.1416">
+	<stop  offset="0" style="stop-color:#4A4A4A"/>
+	<stop  offset="1" style="stop-color:#2B2B2B"/>
+</linearGradient>
+<path fill="url(#SVGID_4_)" d="M114.257,99.142c0,2.028-1.645,3.672-3.672,3.672H41.416c-2.028,0-3.672-1.644-3.672-3.672l0,0
+	c0-2.027,1.644-3.672,3.672-3.672h69.169C112.612,95.47,114.257,97.114,114.257,99.142L114.257,99.142z"/>
+</svg>
