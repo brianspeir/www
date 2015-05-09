@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="326px" height="510px" viewBox="0 0 326 510" enable-background="new 0 0 326 510" xml:space="preserve">
+<g id="Browser_1_">
+	<g id="Frame">
+		<path fill="#4B4B4B" d="M323,27v476c0,2.209-1.791,4-4,4H7c-2.209,0-4-1.791-4-4V27H323 M326,24h-3H3H0v3v476c0,3.859,3.14,7,7,7
+			h312c3.859,0,7-3.141,7-7V27V24L326,24z"/>
+	</g>
+	<g id="Bar">
+		<path fill="#DDDDDD" d="M1.5,25.5V7c0-3.033,2.467-5.5,5.5-5.5h312c3.032,0,5.5,2.467,5.5,5.5v18.5H1.5z"/>
+		<path fill="#4B4B4B" d="M319,3c2.209,0,4,1.791,4,4v17H3V7c0-2.209,1.791-4,4-4H319 M319,0H7C3.14,0,0,3.14,0,7v17v3h3h320h3v-3V7
+			C326,3.14,322.859,0,319,0L319,0z"/>
+	</g>
+	<circle id="Close" fill="#BBBBBB" cx="15" cy="14" r="5"/>
+	<circle id="Minimize" fill="#BBBBBB" cx="35" cy="14" r="5"/>
+	<circle id="Zoom" fill="#BBBBBB" cx="55" cy="14" r="5"/>
+	<rect id="Title" x="465" y="8.438" display="none" fill="#BBBBBB" width="100" height="11"/>
+</g>
+</svg>
